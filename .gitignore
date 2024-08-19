@@ -1,0 +1,15 @@
+# Node modules
+/node_modules
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+/client/node_modules
+/server/node_modules
+
+# Build output
+/client/build
+/server/build
+
